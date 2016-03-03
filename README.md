@@ -8,7 +8,7 @@
 
 basic|required|required
 :-----:|:--------:|--------
-protactor-config-simple.js|protactor-config-reporter.js|jasmine-angular
+config-simple.js|config-reporter.js|jasmine-angular
 [( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Simple/blob/master/config-simple.js)|[( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Reporter/blob/master/config-reporter.js)|[( CTRL+CLICK )](https://github.com/EricDeCoff/jasmine-angulerOrg-spec/blob/master/jasmine-angularOrg-spec.js)
 
 ## usage
