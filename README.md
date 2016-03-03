@@ -6,6 +6,11 @@
   npm install jasmine-spec-reporter --save-dev
 ```
 
+basic|required|required
+-----|--------|--------
+protactor-config-simple.js|protactor-with-reporter.js|jasmine-angular
+
+
 # Protractor Config-Simple.js with Reporter
 
 ### config-with-reporter.js
