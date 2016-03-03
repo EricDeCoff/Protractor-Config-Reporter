@@ -18,5 +18,5 @@ config-simple.js|config-reporter.js|jasmine-angularOrg-spec.js
   
   webdriver-manager start
   
-  protractor ./config-with-reporter.js
+  protractor ./config-reporter.js
 ```
