@@ -9,7 +9,7 @@
 basic|required|required
 :-----:|--------|--------
 protactor-config-simple.js|protactor-config-reporter.js|jasmine-angular
-[( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Reporter/blob/master/protactor-with-reporter)|[( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Reporter/blob/master/protactor-config-reporter)
+[( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Simple/blob/master/protactor-config-simple)|[( CTRL+CLICK )](https://github.com/EricDeCoff/Protractor-Config-Reporter/blob/master/protactor-config-reporter)
 
 
 # Protractor Config-Simple.js with Reporter
