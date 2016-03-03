@@ -13,7 +13,7 @@ config-simple.js|config-reporter.js|jasmine-angularOrg-spec.js
 
 ## usage
 ```bash
-# If neededed
+  # webdriver-manager update ( optional )
   webdriver-manager update 
   
   webdriver-manager start
