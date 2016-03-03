@@ -35,7 +35,8 @@ exports.config = {
         print: function() {}
 
     }
-};```
+};
+```
 
 ### example-spec.js
 ```bash
