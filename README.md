@@ -1,4 +1,4 @@
-# Protractor-Config-Reporter
+# Protractor Config with Reporter
 
 ### jasmine-spec-reportor
 
@@ -6,7 +6,7 @@
   npm install jasmine-spec-reporter --save-dev
 ```
 
-# Protractor-Config-Simple
+# Protractor Config-Simple.js with Reporter
 
 ### config-with-reporter.js
 ```bash
